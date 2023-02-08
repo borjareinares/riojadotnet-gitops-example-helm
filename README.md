@@ -1,0 +1,1 @@
+# riojadotnet-gitops-example-helm
